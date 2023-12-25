@@ -23,7 +23,7 @@ namespace Logger.Controllers
         {
             try
             {
-                throw new Exception("Hello Error 222222!");
+                throw new Exception("Hello Error 55555!");
             }
             catch (Exception ex)
             {
